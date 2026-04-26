@@ -86,7 +86,7 @@ https://github.com/mkujala/rbr-racestat-browser-releases/releases/latest
 
 ## Bug Reports
 
-Report issues via GitHub Issues.
+Report issues via GitHub Issues or contact me on Discord: MogFin
 
 Include:
 
