@@ -46,11 +46,7 @@ Download the latest version from the **Releases** page.
 
 * **Completed** = finished runs only
 
-* **Completion %**
-
-  ```
-  completed runs / all runs
-  ```
+* **Completion %** = completed runs / all runs
 
 * **Completed km**
 
@@ -73,11 +69,7 @@ Download the latest version from the **Releases** page.
 
 * Read-only application (does not modify database)
 * Runs fully locally (no network usage)
-* Settings stored in:
-
-  ```
-  AppData/Roaming/racestat-go/
-  ```
+* Settings stored in: AppData/Roaming/racestat-go/
 
 ## Changelog
 
@@ -108,6 +100,6 @@ Include:
 * Thanks to Mika-N, developer of NGPCarMenu / RaceStatDB, for the database data this application analyzes.
 * RaceStatDB is part of the NGPCarMenu plugin project
 
-## Author
+## Author of RBR Racestat Browser
 
 MogFin
