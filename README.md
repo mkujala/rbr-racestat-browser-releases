@@ -22,7 +22,7 @@ Desktop tool for analyzing Richard Burns Rally (RallySimFans) driving data.
 
 ## Download
 
-Download the latest version from the **Releases** page.
+https://github.com/mkujala/rbr-racestat-browser-releases/releases/latest
 
 ## Requirements
 
